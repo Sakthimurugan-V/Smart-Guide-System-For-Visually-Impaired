@@ -87,7 +87,6 @@ The system uses a **Raspberry Pi Zero 2W** for image processing and an **ESP32**
 
 * **Python**
 * **Embedded C**
-* **Verilog HDL** *(if applicable to supporting work)*
 * **OpenCV**
 * **NumPy**
 * **Picamera2**
@@ -95,7 +94,7 @@ The system uses a **Raspberry Pi Zero 2W** for image processing and an **ESP32**
 * **Arduino IDE**
 * **ESP32**
 * **UART Communication**
-* **GPS / NMEA**
+* **GPS**
 * **SIM800L AT Commands**
 
 ## 🚀 Key Features
